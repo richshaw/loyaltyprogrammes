@@ -6,3 +6,7 @@ The literature on loyalty programs is large and often contradictory. Fortunately
 
 This visualization splits my notes on the review into things we know and don't know. Click on the circles to zoom into each section. The smallest circles display a note on what we *know* or *don't know* about a particular aspect of loyalty programs.
 
+## References
+
+Dorotic, M., Bijmolt, T. H., & Verhoef, P. C. (2012). Loyalty Programmes: Current Knowledge and Research Directions*. International Journal of Management Reviews, 14(3), 217-237.
+
