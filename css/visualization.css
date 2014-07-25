@@ -1,0 +1,69 @@
+body {
+  background: #fefefe;
+  color: #000;
+  font-family: 'Roboto Slab', 'serif';
+}
+
+text {
+  fill: #fefefe;
+  font-size: 12px;
+  pointer-events: none;
+}
+
+text.depth-1 {
+  fill: #666;
+  font-size: 18px;
+}
+
+text.depth-2 {
+  font-size: 14px;
+}
+
+circle {
+  fill: #eeefff;
+  stroke: #999;
+  pointer-events: all;
+  cursor:pointer;
+}
+
+circle {
+  fill-opacity: 0.4;
+}
+
+circle:hover {
+  stroke: #fefefe;
+  stroke-width: 2px;
+}
+
+circle.don39t-know{
+    fill:#990000;
+}
+
+circle.know {
+    fill:#000099;
+}
+
+#visualization {
+  border: 1px solid #999;
+  position:relative;
+  width:970px;
+  height:800px;
+  margin: auto;
+  background-color: #fcfcf;
+}
+
+#infobox {
+    position: absolute;
+    top:30px;
+    left:40px;
+    width: 200px;
+    padding: 10px;
+    display:none;
+}
+
+#reset {
+    position: absolute;
+    bottom:30px;
+    left:40px;
+}
+
